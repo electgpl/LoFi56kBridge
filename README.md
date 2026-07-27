@@ -5,10 +5,10 @@ ESP32-S3 + SX1262 modules (Elecrow ThinkNode M5). Achieves ~40 kbps useful
 throughput — enough for WhatsApp, Telegram, and lightweight web browsing.
 Think 56k modem for the 2020s.
 
-![Sub56k modules](photo_2026-07-26_20-31-14.jpg)
+![Sub56k modules](Pics/photo_2026-07-26_21-22-32.jpg)
 *Two ThinkNode M5 units running the Sub-GHz bridge — one as Gateway, one as Client.*
 
-![fast.com speed test](photo_2026-07-26_21-22-32.jpg)
+![fast.com speed test](Pics/photo_2026-07-26_20-31-14.jpg)
 *Real speed test result via the Sub-GHz link: 56 kbps.*
 
 ## How It Works
